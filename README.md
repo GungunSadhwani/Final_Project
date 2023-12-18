@@ -22,7 +22,7 @@ Getting Started
 Project setup
 
 # clone repo
-git clone https://github.com/sneharatnani/notewind.git
+git clone https://github.com/GungunSadhwani/Final_Project
 
 # changing directory
 cd notewind
